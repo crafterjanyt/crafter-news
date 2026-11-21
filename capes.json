@@ -1,0 +1,15 @@
+{
+  "capes": [
+    {
+      "id": "classic",
+      "name": "Crafter Classic",
+      "file": "https://raw.githubusercontent.com/crafterjanyt/crafter-news/main/capes/classic.png"
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "file": "https://raw.githubusercontent.com/crafterjanyt/crafter-news/main/capes/rainbow.png",
+      "frameMs": 42
+    }
+  ]
+}
