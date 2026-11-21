@@ -3,11 +3,13 @@
     {
       "id": "classic",
       "name": "Crafter Classic",
+      "category": "creators",
       "file": "https://raw.githubusercontent.com/crafterjanyt/crafter-news/main/capes/classic.png"
     },
     {
       "id": "rainbow",
       "name": "Rainbow",
+      "category": "creators",
       "file": "https://raw.githubusercontent.com/crafterjanyt/crafter-news/main/capes/rainbow.png",
       "frameMs": 42
     }
