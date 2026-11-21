@@ -2,9 +2,9 @@
   "news": [
     {
       "image": "https://raw.githubusercontent.com/crafterjanyt/crafter-news/main/news1.png",
-      "title": "",
-      "text": "",
-      "date": ""
+      "title": "Welcome to CrafterClient",
+      "text": "CrafterClient is a brand new Minecraft client focused on the best experience for users.",
+      "date": "November 21, 2026"
     }
   ]
 }
